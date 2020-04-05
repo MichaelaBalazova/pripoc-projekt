@@ -1,2 +1,3 @@
-# pripoc-projekt
-Semestrálny projekt ku predmetu Prírodou inšpirované počítanie, mojou témou pre vypracovanie Selekcie čŕt v predikčnom modeli pomocou Gray Wolf Optimizer vrámci aplikácie na moju Diplomovú prácu.
+# Prírodou inšpirované počítanie LS2019/2020
+## Semestrálny projekt
+Mojou témou pre vypracovanie projektu vrámci predmetu PrIP je Selekcia čŕt v predikčnom modeli pomocou Gray Wolf Optimizer vrámci aplikácie na moju Diplomovú prácu.
